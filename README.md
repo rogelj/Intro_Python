@@ -1,4 +1,4 @@
-# Introduiction to Python Programming
+# Introduction to Python Programming
 
 **Dr J Rogel-Salazar**
 
