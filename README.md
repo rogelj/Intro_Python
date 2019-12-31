@@ -551,7 +551,7 @@ print(var2)
 
 <a name="progs"></a>
 
-## Programming: Writing Programs in Python (15 mins)
+## Programming: Writing Programs in Python
 
 Python is an *interpreted* language, which means you can run the program as soon as you make changes to the file. This makes iterating, revising, and troubleshooting programs is much quicker than many other languages.
 
@@ -563,32 +563,18 @@ You can now translate into Python the pseudo-code created in [the Independent Pr
 
 ## Guided Practice: Dive into Data with Python (20 mins)
 
-Let us create a new Jupyter notebook for this practice. We will work in pairs.
+Let us go through a new Jupyter notebook for this practice. We will work in pairs.
 
-1. Save the file called [Python101_Part2_GuidedPractice.ipynb](./code/Python101_Part2_GuidedPractice.ipynb) in a known location in your file system
-2. Start Jupyter and navigate to the location where you saved the file
-3. Open the file 
+1. Open file called [Python101_GuidedPractice.ipynb](./Python101_GuidedPractice.ipynb) in a known location in your file system
 4. Voilà, you can start the Guided Practice
 
 ***
 
 <a name="ind-practice2"></a>
 
-## Independent Practice: More Python Practice (20 mins)
+## Independent Practice: More Python Practice 
 
-### DISCUSION
-
-Given your interests and knowledge, which are you more interested in learning about:
-
-- practical applications of python, or
-- python fundamentals?
-
-> 
->
-> OPTION 1
->
-> You can use the [Iris Dataset notebook included in the materials](./code/Python101_Part2_IndPractice.ipynb) to follow up the introduction to pandas in the previous section. Note that the notebook makes reference to the [Iris Dataset included here](./code/data/iris.csv).
->
+It is your turn to practice. You can still work in pairs. Open up the [Python101_IndPractice.ipynb](./Python101_IndPractice.ipynb) notebook and follow the instructions.
 
 ***
 
